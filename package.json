@@ -1,0 +1,15 @@
+{
+  "name": "topology-representing-network",
+  "version": "1.0.0",
+  "description": "Port of TRNMap algorithm to JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/crabl/topology-representing-network/"
+  },
+  "author": "Chris Rabl",
+  "license": "MIT"
+}
